@@ -4,4 +4,4 @@
 odoo-addons-misc
 ================
 
-Modules developped by GRAP
+Modules developped by GRAP.
